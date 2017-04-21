@@ -1,5 +1,11 @@
 # todolist
 django-rest+bootstrap
+
+！！！功能GIF地址：
+https://cl.ly/3P3R3M0x2328
+https://cl.ly/3P3R3M0x2328
+https://cl.ly/3P3R3M0x2328
+
 * 增加一个待办事项
 * 删除一个待办事项
 * 标记一个待办事项为已完成
